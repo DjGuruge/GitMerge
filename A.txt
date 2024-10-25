@@ -1,2 +1,3 @@
-questa e la prima riga 
+questa e la prima riga buona linea 
 aggiungi quyalcosa 
+Qui ce la prima stringa
